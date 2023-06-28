@@ -1,3 +1,0 @@
-googletext
-smstext
-urltext
